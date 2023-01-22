@@ -1,16 +1,20 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Swift-DocC
+  role: Co-Author and Xcode integrator
+  duration: 2019 &mdash; 2021
+  url: "https://github.com/apple/swift-docc"
+  description: Swift-DocC is a documentation compiler for Swift frameworks and packages aimed at making it easy to write and publish great developer documentation.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: RxSwift
+  role: Core Team Member
+  duration: 2015 &mdash; 2019
+  url: "https://github.com/ReactiveX/RxSwift"
+  description: Rx is a generic abstraction of computation expressed through <code>Observable</code> interface, which lets you broadcast and subscribe to values and other events from an <code>Observable</code> stream.
+
+- project: Swift Alps and App Builders
+  role: Organizer
+  duration: 2015 &mdash; 2019
+  # url: "https://github.com/ReactiveX/RxSwift"
+  description: Organized two events in Switzerland which are AppBuilders and Swift Alps.
